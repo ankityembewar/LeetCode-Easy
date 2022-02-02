@@ -1,0 +1,6 @@
+D:\LeetCode Solution\Palindrome Number\bin\Debug\Palindrome Number.exe.config
+D:\LeetCode Solution\Palindrome Number\bin\Debug\Palindrome Number.exe
+D:\LeetCode Solution\Palindrome Number\bin\Debug\Palindrome Number.pdb
+D:\LeetCode Solution\Palindrome Number\obj\Debug\Palindrome Number.csproj.CoreCompileInputs.cache
+D:\LeetCode Solution\Palindrome Number\obj\Debug\Palindrome Number.exe
+D:\LeetCode Solution\Palindrome Number\obj\Debug\Palindrome Number.pdb
